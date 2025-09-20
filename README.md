@@ -278,8 +278,6 @@ Em conjunto, essa visualização permite compreender não apenas quem são os do
 
 ## 8. Conclusão
 
-## 8. Conclusão
-
 A questão inicial do estudo foi: *"Como os docentes da UFRN se conectam através da coocorrência em turmas? É possível identificar uma rede de colaboração com base nos docentes que lecionam para as mesmas turmas?"*  
 
 A resposta é **sim**. A análise realizada mostra que os docentes efetivamente se conectam, formando padrões de colaboração que podem ser mapeados e interpretados. Esses padrões não são uniformes: a rede é **esparsa e fragmentada**, o que significa que, embora existam colaborações, a maioria dos docentes não interage diretamente com todos os outros. Muitos grupos funcionam de forma isolada, enquanto outros formam núcleos mais densos de interação.  
