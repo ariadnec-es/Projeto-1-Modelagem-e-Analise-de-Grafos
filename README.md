@@ -394,6 +394,6 @@ Etapa concluído: A análise inicial do grafo foi realizada com sucesso!
 
 ## 9. Conteúdo Adicional
 
-[Google Colab]([https://www.exemplo.com](https://colab.research.google.com/drive/1HQvEE6_PpW6jPYuChQ4lEbMkLVw3yhcC?usp=sharing))
+Link do Google Colab: https://colab.research.google.com/drive/1HQvEE6_PpW6jPYuChQ4lEbMkLVw3yhcC?usp=sharing
 
 
