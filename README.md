@@ -250,6 +250,10 @@ A partir deste momento, buscamos transformar os números e métricas calculados 
 
 Na primeira tentativa, procuramos visualizar o grafo completo, com quase 6.000 nós. O resultado, porém, foi uma imagem extremamente poluída e de difícil interpretação, além de ser apenas estática.  
 
+<p align="center">
+  <img src="./imagem/grafo01.png" alt="QR code com o link do projeto"><br>
+</p>
+
 Na segunda abordagem, experimentamos criar uma **ego network**, isto é, uma rede centrada no docente mais conectado, por representar a parte mais significativa da estrutura. O nó central foi destacado com cor e tamanho diferentes para facilitar a compreensão. Ainda assim, o resultado apresentou limitações: uma rede densa, com sobreposição de nós, ausência de interatividade e pouca possibilidade de detalhamento para análises mais profundas.  
 
 Em uma terceira tentativa, voltamos nosso foco para o **maior componente conectado da rede**, que reúne 3.960 docentes. Essa escolha fazia sentido, pois corresponde ao “coração” da rede de colaboração. No entanto, tentar desenhar um grafo dessa dimensão comprometeu o desempenho, tornando o processo custoso e pouco eficiente. Para amenizar o problema, reduzimos o número de iterações do algoritmo de layout para cerca de 50 e ajustamos parâmetros visando diminuir a poluição visual. Apesar do esforço, o resultado continuou insatisfatório: a rede se mostrou como uma massa densa e emaranhada de nós e arestas, inviabilizando a identificação de docentes, a distinção de clusters ou comunidades e a compreensão da estrutura interna.  
