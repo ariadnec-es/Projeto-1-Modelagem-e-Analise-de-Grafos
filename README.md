@@ -1,8 +1,10 @@
-**O projeto foi desenvolvido por Ariadne Silva e Arthur Queiroz**  
+**O projeto foi desenvolvido por Ariadne Evangelista e Arthur Queiroz**  
 **DCA3702 – Algoritmos e Estruturas de Dados II**
 
 # Projeto 1: Modelagem e Análise de Grafos  
 **Aplicação de grafos em problemas reais**
+
+**Mapeamento da Rede de Colaboração Docente da UFRN**
 
 ---
 
@@ -389,4 +391,9 @@ Etapa concluído: A análise inicial do grafo foi realizada com sucesso!
 <p align = "justify">A validação da rede confirma que a modelagem foi bem-sucedida. A partir de dados tabulares, transformamos os registros de turmas em um <b>grafo de coocorrência ponderado</b>, com <b>5.963 nós</b> e <b>25.922 arestas</b>. As métricas quantitativas — número de nós, arestas, densidade, grau médio e identificação de hubs — fornecem evidências concretas da estrutura da rede. Por fim, a <b>visualização interativa dos 100 docentes mais centrais</b> demonstra, de forma clara e intuitiva, como essas conexões se organizam, permitindo a análise de clusters, hubs e pontes entre grupos.</p>
 
 <p align = "justify">Em suma, o estudo não apenas responde afirmativamente à pergunta inicial, mas também oferece uma compreensão detalhada da <b>estrutura, escala e dinâmica da colaboração docente</b> na UFRN, destacando os principais atores, os clusters e o núcleo central que sustentam a rede.</p>
+
+## 9. Conteúdo Adicional
+
+[Google Colab]([https://www.exemplo.com](https://colab.research.google.com/drive/1HQvEE6_PpW6jPYuChQ4lEbMkLVw3yhcC?usp=sharing))
+
 
